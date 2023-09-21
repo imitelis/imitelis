@@ -1,6 +1,6 @@
-### Hello! My name is David.
+## Hello! My name is David.
 
-## I'm a Full-stack developer, graduated scientist and aspiring entrepeneur interested in ML and QML.
+### I'm a Full-stack developer, graduated scientist and aspiring entrepeneur interested in ML and QML.
 
 You can visit my portfolio here:
 
