@@ -15,7 +15,7 @@ You can visit my portfolio here:
     <img alt="D's stats" src="https://github-readme-stats.vercel.app/api?username=imitelis&show_icons=true&theme=transparent&count_private=true"/>
   </div>
   <div class="row">
-    <img alt="D's streaks" src="https://github-readme-streak-stats.herokuapp.com/?user=imitelis&count_private=true"/>
+    <img alt="D's streaks" src="https://github-readme-streak-stats.herokuapp.com/?user=imitelis&theme=transparent&count_private=true"/>
   </div>
 </div>
 
