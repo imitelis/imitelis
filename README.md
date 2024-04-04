@@ -7,15 +7,15 @@ You can visit my portfolio here:
 
 [https://david-ai.fly.dev/](https://david-ai.fly.dev/)
 
-### GitHub stats:
+### D's stats:
 
 <div align="center">
   <div class="row">
-    <img alt="D's streaks" src="https://github-readme-streak-stats.herokuapp.com/?user=imitelis&count_private=true"/>
+    <img alt="D's languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imitelis&layout=horizontal&langs_count=12&hide=Jupyter%20Notebook&theme=transparent&count_private=true"/>
+    <img alt="D's stats" src="https://github-readme-stats.vercel.app/api?username=imitelis&show_icons=true&theme=transparent&count_private=true"/>
   </div>
   <div class="row">
-    <img alt="D's languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imitelis&layout=compact&langs_count=12&theme=transparent&hide=Jupyter%20Notebook&count_private=true"/>
-    <img alt="D's stats" src="https://github-readme-stats.vercel.app/api?username=imitelis&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
-  </div>  
+    <img alt="D's streaks" src="https://github-readme-streak-stats.herokuapp.com/?user=imitelis&count_private=true"/>
+  </div>
 </div>
 
