@@ -13,6 +13,7 @@ You can visit my portfolio here:
   <div class="row">
     <img alt="D's languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imitelis&layout=compact&langs_count=12&hide=Jupyter%20Notebook,Vue,HTML,MATLAB,TeX,Mermaid,Pug,Dockerfile,PLSQL,GDScript,GAP,M,CSS,Assembly,Procfile,C%23&theme=transparent&count_private=true"/>
     <img alt="D's stats" src="https://github-readme-stats.vercel.app/api?username=imitelis&show_icons=true&theme=transparent&count_private=true"/>
+    <iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?imitelis" frameborder="0"></iframe>
   </div>
   <div class="row">
     <img alt="D's streaks" src="https://github-readme-streak-stats.herokuapp.com/?user=imitelis&theme=transparent&count_private=true"/>
