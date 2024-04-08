@@ -11,7 +11,7 @@ You can visit my portfolio here:
 
 <div align="center">
   <div class="row">
-    <img alt="D's languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imitelis&layout=compact&langs_count=12&hide=Jupyter%20Notebook,Vue,HTML,MATLAB,TeX,Mermaid,GDScript,Pug,C%23,&theme=transparent&count_private=true"/>
+    <img alt="D's languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imitelis&layout=compact&langs_count=12&hide=Jupyter%20Notebook,Vue,HTML,MATLAB,TeX,Mermaid,GDScript,Pug,Dockerfile,C%23,&theme=transparent&count_private=true"/>
     <img alt="D's stats" src="https://github-readme-stats.vercel.app/api?username=imitelis&show_icons=true&theme=transparent&count_private=true"/>
   </div>
   <div class="row">
